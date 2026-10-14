@@ -1,0 +1,12 @@
+{
+  "name": "aloud",
+  "version": "0.1.0",
+  "description": "Aloud — unmoderated user testing: record people thinking aloud while they use your site.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  }
+}
